@@ -13,7 +13,7 @@ A robust, command-line calculator built in Python that supports basic arithmetic
 1. **Python 3.x** installed on your local machine.
 2. Clone the repository and navigate into the project directory:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/colorama-calculator.git](https://github.com/YOUR_USERNAME/colorama-calculator.git)
+   git clone (https://github.com/z1pp5dev/colorama-calculator.git)
    cd colorama-calculator
     
 ## Create and activate a virtual environment:
